@@ -41,13 +41,9 @@ The main objectives of this task are to:
 | **SQL**             | Data definition, manipulation and analysis |
 | **MySQL Workbench** | Database development and query execution   |
 
-## 🗂️ Database Structure
+## 🗂️ Database 
 
-The database is named:
-
-```sql
 [Enterprise_Management_System](https://github.com/apurvakesarkar46/Enterprise-Management-System-SQL/commit/c6d8219ccf1e371454edb80a463f88b489467893)
-```
 
 ### Main Tables
 
@@ -350,10 +346,7 @@ Connect to your local MySQL server.
 ### 3. Open the SQL file
 
 Open:
-
-```text
-[Enterprise_Management_System.sql](https://github.com/apurvakesarkar46/Enterprise-Management-System-SQL/commit/c6d8219ccf1e371454edb80a463f88b489467893)
-```
+[Enterprise_Management_System](https://github.com/apurvakesarkar46/Enterprise-Management-System-SQL/commit/c6d8219ccf1e371454edb80a463f88b489467893)
 
 ### 4. Execute the script
 

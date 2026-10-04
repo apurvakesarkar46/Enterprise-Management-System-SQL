@@ -46,7 +46,7 @@ The main objectives of this task are to:
 The database is named:
 
 ```sql
-Enterprise_Management_System
+[Enterprise_Management_System](https://github.com/apurvakesarkar46/Enterprise-Management-System-SQL/commit/c6d8219ccf1e371454edb80a463f88b489467893)
 ```
 
 ### Main Tables
@@ -139,7 +139,6 @@ Stores projects assigned to employees.
 | project_cost | DECIMAL(12,2) | Project cost       |
 | start_date   | DATE          | Project start date |
 
-The sample data includes projects such as **Website, Cloud, Security, Mobile App, Analytics, and Dashboard**.
 
 ### 4. Customers
 
@@ -353,7 +352,7 @@ Connect to your local MySQL server.
 Open:
 
 ```text
-Enterprise_Management_System.sql
+[Enterprise_Management_System.sql](https://github.com/apurvakesarkar46/Enterprise-Management-System-SQL/commit/c6d8219ccf1e371454edb80a463f88b489467893)
 ```
 
 ### 4. Execute the script
@@ -392,9 +391,11 @@ employee_history
 ## 📁 Repository Structure
 
 ```text
-Enterprise-Management-System/
+Enterprise-Management-System-SQL/
 │
 ├── Enterprise_Management_System.sql
+├── queries.pdf
+├── queries with outputs.pdf
 └── README.md
 ```
 
@@ -434,4 +435,3 @@ Computer Science Engineering Student
 
 ---
 
-⭐ If you find this project useful, feel free to explore the SQL queries and database structure.

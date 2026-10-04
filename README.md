@@ -389,6 +389,9 @@ Enterprise-Management-System-SQL/
 ├── Enterprise_Management_System.sql
 ├── queries.pdf
 ├── queries with outputs.pdf
+├── output.png
+├── query-1.png
+├── query-2.png
 └── README.md
 ```
 
